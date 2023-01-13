@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    background-color: white;
+}
+
+.nav p{
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 900;
+    background-color: #1f2937;
+}
+
+.nav {
+    display: flex;
+    padding-left: 500px;
+    background-color: #1f2937;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding-top: 10px;
+    padding-left: 320px;
+    background-color: #1f2937;
+}
+
+li a {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+    padding: 15px;
+    background-color: #1f2937;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+    background-color: #1f2937;
+}
+
+.hero {
+    padding: 100px;
+    padding-left: 500px;
+    display: inline-block;
+    background-color: #1f2937;
+}
+
+.desc {
+    font-size: 18px;
+    color: #e5e7eb;
+    opacity: 0.6;
+    margin-top: 8px;
+    background-color: #1f2937;
+}
+
+.signup {
+    background-color: #3882f6;
+    border: none;
+    padding: 6px;
+    color: white;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 15px;
+    border-color: #3882f6;
+    border-style: solid;
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+
+.signup:hover {
+    cursor: pointer;
+    background-color: #1f2937;
+}
+
+li a:hover {
+    opacity: 0.4;
+}
+
+.image {
+    padding-top: 150px;
+    background-color: #1f2937;
+}
+
+.raninfo {
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.dark-bg {
+    background-color: #1f2937;
+}
+
+.box {
+    width: 120px;
+    height: 120px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #3882f6;
+}
+
+.information {
+    display: flex;
+    padding: 80px;
+    padding-left: 580px;
+}
+
+.part {
+    padding: 25px;
+}
+
+.under {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.quote-section {
+    padding: 150px;
+    background-color: #e5e7eb;
+    padding-left: 550px;
+}
+
+.quote {
+    font-family: italic;
+    font-size: 36px;
+    font-weight: 200;
+    background-color: #e5e7eb;
+}
+
+.thor {
+    font-size: 19px;
+    font-weight: 700;
+    background-color: #e5e7eb;
+    float: right;
+    padding-right: 410px;
+}
+
+.action {
+    background-color: #3882f6;
+    padding: 50px;
+    margin: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+}
+.call {
+    background-color: #3882f6;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.sign-text {
+    background-color: #3882f6;
+    margin-left: 100px;
+    color: white;
+}
+
+.sign {
+    background-color: #3882f6;
+    margin-left: 500px;
+    padding: 7px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    border-color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    font-weight: bold;
+    font-size: 14px;
+    transition: 0.2s;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -ms-transition: 0.2s;
+    -o-transition: 0.2s;
+}
+
+.sign:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #3882f6;
+}
+
+.text {
+    background-color: #3882f6;
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+    padding: 35px;
+    background-color: #1f2937;
+    color: white;
+}
